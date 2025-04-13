@@ -67,7 +67,7 @@ I love writing code that brings ideas to life and experimenting with new tools �
 
 ---
 
-### ⚙️ Automation 2
+### ⚙️ Automation 
 **Description:** Experimental identification of real-world controlled systems.  
 **Technologies:** MATLAB, optimization, data analysis  
 **Highlights:**

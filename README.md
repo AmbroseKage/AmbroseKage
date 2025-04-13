@@ -1,15 +1,30 @@
-<h1 align="center">Hi 👋, I'm Jakub Kłos</h1>
-<h3 align="center">Student AiR na AGH · Zajawkowicz Pythona i MATLABa · Fan wizualizacji danych, grafów i automatyki</h3>
+# Cześć, tu Jakub Kłos! 👋
+
+Jestem studentem **Automatyki i Robotyki na AGH w Krakowie (2 rok)** i totalnym zajawkowiczem technologii, muzyki i odkrywania, jak rzeczy działają. 😄  
+Uwielbiam pisać kod, który ożywia pomysły, i eksperymentować z nowymi narzędziami – od **Pythona** po **systemy sterowania**.
 
 ---
 
-- 🎓 Studiuję **Automatykę i Robotykę** na AGH (2 rok)
-- 🔭 Aktualnie pracuję nad projektami z grafami, sieciami przemysłowymi i przetwarzaniem sygnałów
-- 🧠 Lubię uczyć się nowych rzeczy, ostatnio: **algorytmy grafowe**, **Python**, **Fourier**, **optymalizacja układów**
-- 📫 Jak się ze mną skontaktować: **jklos2018@gmail.com**
-- 🌍 Lokalizacja: Kraków, Polska 🇵🇱
+## 🧑 Trochę o mnie
+
+- 🎓 Studiuję na AGH, gdzie zgłębiam automatykę, robotykę i wszystko, co z tym związane.
+- 💻 Aktualnie bawię się Pythonem, tworząc skrypty do analizy danych i automatyzacji – od prostych trików po bardziej szalone projekty.
+- 🔍 Ostatnio wciągnąłem się w **machine learning** – próbuję ogarnąć, jak maszyny mogą uczyć się same (to jak czarna magia, ale fajna!).
+- 🎧 Poza kompem? Słucham muzyki (od elektroniki po klasykę rocka) i czasem sam coś brzdąkam.
+- 🌍 Kraków to moje miejsce – jeśli jesteś w okolicy, daj znać, może skoczymy na kawę i pogadamy o techu! 🇵🇱
 
 ---
+
+## 📦 Co tu znajdziesz?
+
+- 🐍 Projekty z **Pythona** – od analizy danych po automatyzację codziennych zadań
+- 🧪 Eksperymenty z **machine learningiem** i **przetwarzaniem sygnałów**
+- 🎨 Może kiedyś wrzucę coś o **muzyce** albo **wizualizacjach danych**, bo to też moja bajka!
+
+---
+
+📫 **Kontakt:** [jklos2018@gmail.com](mailto:jklos2018@gmail.com)
+
 
 ## 🛠️ Skills & Tools
 

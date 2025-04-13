@@ -113,12 +113,13 @@ I love writing code that brings ideas to life and experimenting with new tools �
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jakub Klos &show_icons=true&theme=transparent&hide=prs" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kubaklos&show_icons=true&theme=transparent&hide=prs" alt="GitHub stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubaklos&theme=transparent" alt="GitHub Streak" />
 </p>
 
 ---
+
 
 ## 📬 Get in touch
 

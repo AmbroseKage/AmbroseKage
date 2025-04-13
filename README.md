@@ -109,15 +109,13 @@ I love writing code that brings ideas to life and experimenting with new tools â
 - Image segmentation in local windows and interpolated masks
 
 ---
-
 ## ðŸ“Š GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kubaklos&show_icons=true&count_private=true&theme=transparent&hide_border=false&hide_title=false&hide=prs" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kubaklos&layout=compact&langs_count=8&theme=transparent&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kubaklos&show_icons=true&count_private=true&theme=transparent&hide_border=false&hide_title=false&hide=prs&cache_seconds=1800" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kubaklos&layout=compact&langs_count=8&theme=transparent&hide_border=false&cache_seconds=1800" height="150" alt="Top Languages" />
 </div>
 
----
 
 
 

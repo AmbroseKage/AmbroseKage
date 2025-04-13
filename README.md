@@ -23,12 +23,78 @@
 
 ---
 
-## 📌 Projects (najciekawsze)
+## 📌 Projects
 
-- 🔍 **Algorytmy Grafowe** – Dijkstra, A*, Floyd-Warshall, Johnson  
-- 🧮 **Modelowanie Systemów Dynamicznych** – modele Kupfmullera, Strejca, identyfikacja w MATLAB
-- 📡 **Sieci Przemysłowe** – HART, IO-Link, Modbus + integracja z WAGO / Siemens
-- ⚙️ **Automatyka 2** – eksperymentalna identyfikacja obiektów z danymi rzeczywistymi
+### 🔍 Algorytmy Grafowe
+**Opis:** Implementacja najważniejszych algorytmów wyszukiwania ścieżek w grafach skierowanych i nieskierowanych.  
+**Technologie:** Python, NetworkX, Matplotlib  
+**Funkcje:**
+- Algorytmy: **Dijkstra**, **A\*** (z heurystyką czasu przejazdu), **Floyd-Warshall**, **Johnson**
+- Rozszerzona heurystyka oparta na czasie przejazdu
+- Wizualizacja tras na wykresach i mapach
+
+---
+
+### 🧮 Modelowanie Systemów Dynamicznych
+**Opis:** Modelowanie matematyczne i identyfikacja układów dynamicznych w MATLAB/Simulink.  
+**Technologie:** MATLAB, Simulink  
+**Funkcje:**
+- Modele: **Kupfmullera I/II rzędu z opóźnieniem**, **Strejca**
+- Identyfikacja parametrów z danych pomiarowych
+- Obliczenia błędu (MSE), dopasowania (FIT100), porównanie wykresów
+
+---
+
+### 📡 Sieci Przemysłowe
+**Opis:** Konfiguracja i komunikacja urządzeń w systemach automatyki przemysłowej.  
+**Technologie:** TIA Portal, CoDeSys, S7-PCT, WAGO, Siemens  
+**Funkcje:**
+- Protokoły: **HART**, **IO-Link**, **Modbus**
+- Integracja czujników (temperatura, ultradźwięk), przetworników
+- Komunikacja z PLC i wizualizacja danych
+
+---
+
+### ⚙️ Automatyka 2
+**Opis:** Eksperymentalna identyfikacja rzeczywistego obiektu regulacji.  
+**Technologie:** MATLAB, optymalizacja `fminsearch`, analiza danych  
+**Funkcje:**
+- Dopasowanie modeli dynamicznych do danych z eksperymentu
+- Analiza jakości odwzorowania odpowiedzi układu
+- Porównanie modeli i przebiegów w czasie rzeczywistym
+
+---
+
+### 💡 Metody Numeryczne
+**Opis:** Rozwiązywanie problemów inżynierskich z wykorzystaniem narzędzi numerycznych.  
+**Technologie:** Python, NumPy, SciPy, Matplotlib  
+**Funkcje:**
+- Implementacja funkcji matematycznych i ich wykresów (logarytmiczne, wykładnicze)
+- Analiza błędów, interpolacje, obliczenia pochodnych i całek
+- Wizualizacja danych (m.in. spirale logarytmiczne, funkcje ciepła, zbiory danych)
+- Porównanie wyników dla różnych metod i warunków brzegowych
+
+---
+
+### 🧠 Zaawansowane Programowanie
+**Opis:** Projekty obiektowe z testami jednostkowymi, strukturami danych i wzorcami projektowymi.  
+**Technologie:** Python, unittest, regex, OOP  
+**Funkcje:**
+- Implementacja klas `Product`, `Client`, `BaseServer` (np. dla hurtowni spożywczej)
+- Obsługa danych tekstowych i słowników z użyciem wyrażeń regularnych
+- Rozdzielenie logiki na różne klasy z użyciem dziedziczenia i kompozycji
+- **Testy jednostkowe** i integracyjne (moduł `unittest`)
+
+---
+
+### 👁️‍🗨️ Systemy Wizyjne
+**Opis:** Przetwarzanie i analiza obrazów cyfrowych z wykorzystaniem MATLABa i metod binarizacji.  
+**Technologie:** MATLAB, Image Processing Toolbox  
+**Funkcje:**
+- Binarizacja adaptacyjna: Otsu, lokalna średnia, Sauvola, interpolowana binaryzacja
+- Porównanie skuteczności metod w różnych warunkach oświetleniowych
+- Operacje morfologiczne, analiza krawędzi i obiektów
+- Przetwarzanie obrazów w oknach lokalnych i z interpolacją progów
 
 ---
 
@@ -44,8 +110,13 @@
 
 ## 📬 Kontakt
 
-- 📧 Email: [kubaklos17@gmail.com](mailto:kubaklos17@gmail.com)
-- 💼 LinkedIn: [Jakub Kłos](https://www.linkedin.com/in/jakub-k%C5%82os-7314b81b7/)
-
+<p align="left">
+  <a href="mailto:kubaklos17@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-kubaklos17@gmail.com-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/jakub-k%C5%82os-7314b81b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jakub%20Kłos-blue?style=flat-square&logo=linkedin" />
+  </a>
+</p>
 
 ---

@@ -44,8 +44,6 @@
 
 ## 📬 Kontakt
 
-## 📬 Kontakt
-
 - 📧 Email: [kubaklos17@gmail.com](mailto:kubaklos17@gmail.com)
 - 💼 LinkedIn: [Jakub Kłos](https://www.linkedin.com/in/jakub-k%C5%82os-7314b81b7/)
 

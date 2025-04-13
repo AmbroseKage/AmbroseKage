@@ -111,7 +111,7 @@
 ## 📬 Kontakt
 
 <p align="left">
-  <a href="mailto:kubaklos17@gmail.com">
+  <a href="mailto:jklos2018@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-kubaklos17@gmail.com-red?style=flat-square&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/jakub-k%C5%82os-7314b81b7/">

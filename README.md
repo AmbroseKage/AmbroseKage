@@ -23,7 +23,7 @@
 
 ---
 
-## 📌 Pinned Projects (najciekawsze)
+## 📌 Projects (najciekawsze)
 
 - 🔍 **Algorytmy Grafowe** – Dijkstra, A*, Floyd-Warshall, Johnson  
 - 🧮 **Modelowanie Systemów Dynamicznych** – modele Kupfmullera, Strejca, identyfikacja w MATLAB

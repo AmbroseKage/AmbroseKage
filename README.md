@@ -1,4 +1,4 @@
-# Hey there, I'm Jakub Kłos! 👋
+# Hey there, I'm Jakub Kłos! 👋 
 
 I'm a **second-year Automation and Robotics student at AGH University in Kraków**, and a big enthusiast of technology, music, and figuring out how things work. 😄  
 I love writing code that brings ideas to life and experimenting with new tools – from **Python** scripts to **control systems**.

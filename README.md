@@ -1,30 +1,27 @@
-# Cześć, tu Jakub Kłos! 👋
+# Hey there, I'm Jakub Kłos! 👋
 
-Jestem studentem **Automatyki i Robotyki na AGH w Krakowie (2 rok)** i totalnym zajawkowiczem technologii, muzyki i odkrywania, jak rzeczy działają. 😄  
-Uwielbiam pisać kod, który ożywia pomysły, i eksperymentować z nowymi narzędziami – od **Pythona** po **systemy sterowania**.
-
----
-
-## 🧑 Trochę o mnie
-
-- 🎓 Studiuję na AGH, gdzie zgłębiam automatykę, robotykę i wszystko, co z tym związane.
-- 💻 Aktualnie bawię się Pythonem, tworząc skrypty do analizy danych i automatyzacji – od prostych trików po bardziej szalone projekty.
-- 🔍 Ostatnio wciągnąłem się w **machine learning** – próbuję ogarnąć, jak maszyny mogą uczyć się same (to jak czarna magia, ale fajna!).
-- 🎧 Poza kompem? Słucham muzyki (od elektroniki po klasykę rocka) i czasem sam coś brzdąkam.
-- 🌍 Kraków to moje miejsce – jeśli jesteś w okolicy, daj znać, może skoczymy na kawę i pogadamy o techu! 🇵🇱
+I'm a **second-year Automation and Robotics student at AGH University in Kraków**, and a big enthusiast of technology, music, and figuring out how things work. 😄  
+I love writing code that brings ideas to life and experimenting with new tools – from **Python** scripts to **control systems**.
 
 ---
 
-## 📦 Co tu znajdziesz?
+## 🧑 A bit about me
 
-- 🐍 Projekty z **Pythona** – od analizy danych po automatyzację codziennych zadań
-- 🧪 Eksperymenty z **machine learningiem** i **przetwarzaniem sygnałów**
-- 🎨 Może kiedyś wrzucę coś o **muzyce** albo **wizualizacjach danych**, bo to też moja bajka!
+- 🎓 I'm studying at AGH, diving deep into automation, robotics, and everything in between.
+- 💻 Currently, I’m playing around with Python – building scripts for data analysis and automation, from simple tricks to crazy ideas.
+- 🔍 Recently got hooked on **machine learning** – trying to understand how machines can learn by themselves (it’s like black magic, but fun!).
+- 🎧 Outside of tech? I’m into music (anything from electronic to classic rock) and I occasionally play a bit myself (bass/trumpet).
+- 🌍 Based in Kraków, Poland 🇵🇱
 
 ---
 
-📫 **Kontakt:** [jklos2018@gmail.com](mailto:jklos2018@gmail.com)
+## 📦 What you’ll find here
 
+- 🐍 **Python projects** – from data analysis to automation of daily tasks
+- 🧪 **ML & signal processing experiments** – trying to make sense of how it all works
+- 🎨 Maybe one day I’ll drop something music-related or cool data visualizations – both are totally my thing!
+
+---
 
 ## 🛠️ Skills & Tools
 
@@ -40,76 +37,76 @@ Uwielbiam pisać kod, który ożywia pomysły, i eksperymentować z nowymi narz�
 
 ## 📌 Projects
 
-### 🔍 Algorytmy Grafowe
-**Opis:** Implementacja najważniejszych algorytmów wyszukiwania ścieżek w grafach skierowanych i nieskierowanych.  
-**Technologie:** Python, NetworkX, Matplotlib  
-**Funkcje:**
-- Algorytmy: **Dijkstra**, **A\*** (z heurystyką czasu przejazdu), **Floyd-Warshall**, **Johnson**
-- Rozszerzona heurystyka oparta na czasie przejazdu
-- Wizualizacja tras na wykresach i mapach
+### 🔍 Graph Algorithms
+**Description:** Implementation of core algorithms for finding paths in directed and undirected graphs.  
+**Technologies:** Python, NetworkX, Matplotlib  
+**Highlights:**
+- Algorithms: **Dijkstra**, **A\*** (with time-based heuristics), **Floyd-Warshall**, **Johnson**
+- Advanced heuristics based on estimated travel time
+- Visualization of routes using graphs and maps
 
 ---
 
-### 🧮 Modelowanie Systemów Dynamicznych
-**Opis:** Modelowanie matematyczne i identyfikacja układów dynamicznych w MATLAB/Simulink.  
-**Technologie:** MATLAB, Simulink  
-**Funkcje:**
-- Modele: **Kupfmullera I/II rzędu z opóźnieniem**, **Strejca**
-- Identyfikacja parametrów z danych pomiarowych
-- Obliczenia błędu (MSE), dopasowania (FIT100), porównanie wykresów
+### 🧮 Dynamic Systems Modeling
+**Description:** Mathematical modeling and identification of dynamic systems in MATLAB/Simulink.  
+**Technologies:** MATLAB, Simulink  
+**Highlights:**
+- Models: **First and second-order systems with delay** (Kupfmuller), **Strejc** and many others
+- Parameter identification based on experimental data
+- Error metrics (MSE), fit analysis (FIT100), and visual comparison of results
 
 ---
 
-### 📡 Sieci Przemysłowe
-**Opis:** Konfiguracja i komunikacja urządzeń w systemach automatyki przemysłowej.  
-**Technologie:** TIA Portal, CoDeSys, S7-PCT, WAGO, Siemens  
-**Funkcje:**
-- Protokoły: **HART**, **IO-Link**, **Modbus**
-- Integracja czujników (temperatura, ultradźwięk), przetworników
-- Komunikacja z PLC i wizualizacja danych
+### 📡 Industrial Networks
+**Description:** Configuration and communication between industrial devices and control systems.  
+**Technologies:** TIA Portal, CoDeSys, S7-PCT, WAGO, Siemens  
+**Highlights:**
+- Protocols: **HART**, **IO-Link**, **Modbus**
+- Sensor integration (temperature, ultrasonic), signal reading and processing
+- PLC communication and real-time monitoring
 
 ---
 
-### ⚙️ Automatyka 2
-**Opis:** Eksperymentalna identyfikacja rzeczywistego obiektu regulacji.  
-**Technologie:** MATLAB, optymalizacja `fminsearch`, analiza danych  
-**Funkcje:**
-- Dopasowanie modeli dynamicznych do danych z eksperymentu
-- Analiza jakości odwzorowania odpowiedzi układu
-- Porównanie modeli i przebiegów w czasie rzeczywistym
+### ⚙️ Automation 2
+**Description:** Experimental identification of real-world controlled systems.  
+**Technologies:** MATLAB, optimization, data analysis  
+**Highlights:**
+- Dynamic model fitting based on lab data (e.g. heating system)
+- Parameter estimation (delay, gain, time constants)
+- Model vs. reality comparison using plots and error metrics
 
 ---
 
-### 💡 Metody Numeryczne
-**Opis:** Rozwiązywanie problemów inżynierskich z wykorzystaniem narzędzi numerycznych.  
-**Technologie:** Python, NumPy, SciPy, Matplotlib  
-**Funkcje:**
-- Implementacja funkcji matematycznych i ich wykresów (logarytmiczne, wykładnicze)
-- Analiza błędów, interpolacje, obliczenia pochodnych i całek
-- Wizualizacja danych (m.in. spirale logarytmiczne, funkcje ciepła, zbiory danych)
-- Porównanie wyników dla różnych metod i warunków brzegowych
+### 💡 Numerical Methods
+**Description:** Solving engineering problems using numerical techniques.  
+**Technologies:** Python, NumPy, SciPy, Matplotlib  
+**Highlights:**
+- Implementation of various functions and visualizations (logarithmic, exponential)
+- Error analysis, interpolation, numerical derivatives and integrals
+- Visualization: log spirals, heat dissipation, data trends
+- Comparison of method performance under different conditions
 
 ---
 
-### 🧠 Zaawansowane Programowanie
-**Opis:** Projekty obiektowe z testami jednostkowymi, strukturami danych i wzorcami projektowymi.  
-**Technologie:** Python, unittest, regex, OOP  
-**Funkcje:**
-- Implementacja klas `Product`, `Client`, `BaseServer` (np. dla hurtowni spożywczej)
-- Obsługa danych tekstowych i słowników z użyciem wyrażeń regularnych
-- Rozdzielenie logiki na różne klasy z użyciem dziedziczenia i kompozycji
-- **Testy jednostkowe** i integracyjne (moduł `unittest`)
+### 🧠 Advanced Programming
+**Description:** Object-oriented projects with unit testing, data structures and design patterns.  
+**Technologies:** Python, unittest, regex, OOP  
+**Highlights:**
+- Classes like `Product`, `Client`, `BaseServer` for a warehouse-style application
+- Text and dictionary processing using regular expressions
+- Separation of logic with inheritance and composition
+- Extensive **unit and integration tests**
 
 ---
 
-### 👁️‍🗨️ Systemy Wizyjne
-**Opis:** Przetwarzanie i analiza obrazów cyfrowych z wykorzystaniem MATLABa i metod binarizacji.  
-**Technologie:** MATLAB, Image Processing Toolbox  
-**Funkcje:**
-- Binarizacja adaptacyjna: Otsu, lokalna średnia, Sauvola, interpolowana binaryzacja
-- Porównanie skuteczności metod w różnych warunkach oświetleniowych
-- Operacje morfologiczne, analiza krawędzi i obiektów
-- Przetwarzanie obrazów w oknach lokalnych i z interpolacją progów
+### 👁️‍🗨️ Vision Systems
+**Description:** Image processing and analysis using MATLAB and adaptive binarization techniques.  
+**Technologies:** MATLAB, Image Processing Toolbox  
+**Highlights:**
+- Adaptive thresholding: Otsu, local average, Sauvola, interpolated methods
+- Method comparison under various lighting conditions
+- Morphological operations, edge and object detection
+- Image segmentation in local windows and interpolated masks
 
 ---
 
@@ -123,7 +120,7 @@ Uwielbiam pisać kod, który ożywia pomysły, i eksperymentować z nowymi narz�
 
 ---
 
-## 📬 Kontakt
+## 📬 Get in touch
 
 <p align="left">
   <a href="mailto:jklos2018@gmail.com">

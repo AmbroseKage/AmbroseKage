@@ -44,10 +44,10 @@
 
 ## 📬 Kontakt
 
+## 📬 Kontakt
+
 - 📧 Email: [kubaklos17@gmail.com](mailto:kubaklos17@gmail.com)
-- 🧑‍💼 LinkedIn: *(możesz dodać, jak chcesz podlinkować profil)*
-- 🖥️ Portfolio / blog: *(jeśli kiedyś założysz)*
+- 💼 LinkedIn: [Jakub Kłos](https://www.linkedin.com/in/jakub-k%C5%82os-7314b81b7/)
+
 
 ---
-
-<!-- GitHub Profile README made with ❤️ by ChatGPT x Jakub -->

@@ -112,13 +112,13 @@ I love writing code that brings ideas to life and experimenting with new tools �
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kubaklos&show_icons=true&theme=transparent&hide=prs" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubaklos&theme=transparent" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kubaklos&show_icons=true&count_private=true&theme=transparent&hide_border=false&hide_title=false&hide=prs" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kubaklos&layout=compact&langs_count=8&theme=transparent&hide_border=false" height="150" alt="Top Languages" />
+</div>
 
 ---
+
 
 
 ## 📬 Get in touch

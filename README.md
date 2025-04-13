@@ -5,10 +5,8 @@
 
 - 🎓 Studiuję **Automatykę i Robotykę** na AGH (2 rok)
 - 🔭 Aktualnie pracuję nad projektami z grafami, sieciami przemysłowymi i przetwarzaniem sygnałów
-- ⚙️ Uwielbiam łączyć **Python** z **wizualizacjami** – matplotlib, networkx, numpy
-- 🧠 Lubię uczyć się nowych rzeczy, ostatnio: **algorytmy grafowe**, **Fourier**, **optymalizacja układów**
-- 💬 Zapytaj mnie o: Dijkstrę, A*, MATLABa, Simulinka, kod z testami
-- 📫 Jak się ze mną skontaktować: **kubaklos17@gmail.com**
+- 🧠 Lubię uczyć się nowych rzeczy, ostatnio: **algorytmy grafowe**, **Python**, **Fourier**, **optymalizacja układów**
+- 📫 Jak się ze mną skontaktować: **jklos2018@gmail.com**
 - 🌍 Lokalizacja: Kraków, Polska 🇵🇱
 
 ---

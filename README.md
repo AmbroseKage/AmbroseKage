@@ -10,17 +10,13 @@ I mostly work in Python and MATLAB/Simulink around control, modeling/identificat
 - ML and signal processing experiments
 
 ## Selected projects
-- Graph Algorithms — Dijkstra, A*, Floyd–Warshall, Johnson; heuristics + visualizations  
-  Repo: https://github.com/kubaklos/<REPO_NAME>
-
+- Graph Algorithms — Dijkstra, A*, Floyd–Warshall, Johnson; heuristics + visualizations
+  
 - Dynamic Systems Modeling — MATLAB/Simulink modeling + identification (e.g., Kupfmüller, Strejc), fit metrics  
-  Repo: https://github.com/kubaklos/<REPO_NAME>
 
 - Industrial Networks — PLC/device communication (Modbus, IO-Link, HART), basic monitoring/integration  
-  Repo: https://github.com/kubaklos/<REPO_NAME>
 
 - Vision Systems — image processing in MATLAB (adaptive thresholding, segmentation, comparisons)  
-  Repo: https://github.com/kubaklos/<REPO_NAME>
 
 ## Tech
 Python, MATLAB/Simulink, C++, Git, Linux  

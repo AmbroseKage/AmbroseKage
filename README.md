@@ -25,5 +25,4 @@ TIA Portal, CoDeSys
 
 ## Contact
 Email: jklos2018@gmail.com  
-LinkedIn: https://www.linkedin.com/in/jakub-k%C5%82os-7314b81b7/  
 Location: Kraków, Poland

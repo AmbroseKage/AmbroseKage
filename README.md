@@ -1,4 +1,5 @@
-# Jakub Kłos
+# AmbroseKage
+
 
 Automation and Robotics student (AGH University of Science and Technology, Kraków).  
 I mostly work in Python and MATLAB/Simulink around control, modeling/identification, and signal processing.
